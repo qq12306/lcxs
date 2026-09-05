@@ -1,0 +1,4 @@
+python -m http.server 8080
+在这个文件夹空白处ctrl+右键，选在当前文件夹打开powershell，命令行输入上一行
+即可在浏览器访问http://localhost:8080
+打开游戏页面

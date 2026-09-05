@@ -1,0 +1,20 @@
+{
+  "idle": {
+    "cellW": 418,
+    "cellH": 418,
+    "frames": 8,
+    "frameMs": 320
+  },
+  "run": {
+    "cellW": 366,
+    "cellH": 366,
+    "frames": 12,
+    "frameMs": 160
+  },
+  "attack": {
+    "cellW": 364,
+    "cellH": 364,
+    "frames": 12,
+    "frameMs": 160
+  }
+}
